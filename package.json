@@ -1,0 +1,26 @@
+{
+  "name": "mobiskele.css",
+  "version": "1.0.0",
+  "description": "mobiskele is a css framework for mobile",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjgagacy/mobiskele.css.git"
+  },
+  "author": "alex xu (jjgagacy@163.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjgagacy/mobiskele.css/issues"
+  },
+  "homepage": "https://github.com/jjgagacy/mobiskele.css#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.7.5",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
