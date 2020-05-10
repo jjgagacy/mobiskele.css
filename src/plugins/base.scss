@@ -8,7 +8,10 @@
     --color-primary: hsl(210, 70%, 50%);
     --color-danger: hsl(0, 65%, 60%);
 
-    --color-background-faded: color(var(--color-background)) lightness(-5%);
+    --color-primary-lighter: hsl(210, 70%, 45%);
+    --color-danger-lighter: hsl(0, 65%, 55%);
+
+    --color-background-faded: hsl(0, 0, 95%);
 
     // layout
     --max-width-container: 800px;
