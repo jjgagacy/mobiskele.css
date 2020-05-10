@@ -1,6 +1,4 @@
-body {
-    color: #666;
-    h1 {
-        color: #333;
-    }
-}
+@import 'plugins/base';
+@import 'plugins/reset';
+@import 'plugins/container';
+@import 'plugins/flexbox';
